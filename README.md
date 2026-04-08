@@ -33,3 +33,5 @@ Used `SUM()` with `GROUP BY category, year` inside a CTE to get total annual spe
 ### Step 3 — Calculate year-over-year % change
 
 Used the `LAG()` window function partitioned by `category` and ordered by `year` to pull each category's prior year spend, then calculated:
+
+! [Over year change] (https://github.com/Khushi-13/finance-data-cleaning/blob/main/over_year_change.png)
