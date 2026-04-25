@@ -1,6 +1,5 @@
 # finance-data-cleaning
-# Watch Me Do Data Analysis — Cleaning Messy Financial Data in SQL
-
+---
 ## Overview
 
 In this project, I took a real-world financial dataset with 10,000+ rows and a completely broken `amount` column — containing dollar signs, commas, and random text like "Declined" and "Pending" — and cleaned it using just 3 SQL functions in SQL Server. I then answered one business question:
